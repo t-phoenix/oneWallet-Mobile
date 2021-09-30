@@ -1,10 +1,18 @@
 # oneWallet-Mobile
-React-Native Application for Harmony One Wallet (iOS and android)
+React-Native Application UI for Harmony One Wallet (iOS and android)
+
+---
+
+### Tools Required
+
+---
+
+### How to Run
 
 ---
 
 ### Introduction 
-- This is a User Interface for oneWallet Mobile Application (iOS and android) developed in React-Native.
+- This is a User Interface (UI) for oneWallet Mobile Application (iOS and android) developed in React-Native.
 - Inspired from [oneWallet.crazy.one](oneWallet.crazy.one) and neumorphism, this UI is developed to easily help users get acquainted by the mobile application.
 - To align the idea of keyless signIn Google Authenticator, I've made the createWallet layout according to manual setup, instead of qr scan.
 - Dynamicity in the UI is provided according to next development phase needs. (Eg. Number of Wallet Cards on Main Screen, List of different tokens inside wallet).
@@ -26,10 +34,11 @@ React-Native Application for Harmony One Wallet (iOS and android)
 
 ---
 
-### Screenshots
-![Main Screen](images/MainScreen.png)
+### Video
+[Demo: 1Wallet Mobile App UI](https://youtu.be/eTTFQ_bxpV4)
+<!-- ![Main Screen](images/MainScreen.png)
 
 ![Wallet Screen](images/Wallet.png)
 
-![Drawer Screen](images/Drawer.png)
+![Drawer Screen](images/Drawer.png) -->
 
