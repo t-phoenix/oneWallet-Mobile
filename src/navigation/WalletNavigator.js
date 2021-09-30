@@ -25,7 +25,7 @@ export default function WalletNavigator({navigation}) {
         component={WalletsScreen}
         options={{
           headerTitle: () => (
-            <Text style={commonStyles.primaryTextBlue}>Wallet</Text>
+            <Text style={commonStyles.primaryTextBlue}>1Wallet</Text>
           ),
           headerLeft: () => (
             <TouchableOpacity onPress={() => navigation.openDrawer()}>
@@ -45,7 +45,7 @@ export default function WalletNavigator({navigation}) {
         component={ExpandedWalletScreen}
         options={{
           headerTitle: () => (
-            <Text style={commonStyles.primaryTextBlue}>Wallet</Text>
+            <Text style={commonStyles.primaryTextBlue}>1Wallet</Text>
           ),
           headerStyle: commonStyles.headerBarStyle,
         }}
