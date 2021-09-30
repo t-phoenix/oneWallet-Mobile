@@ -4,10 +4,19 @@ React-Native Application UI for Harmony One Wallet (iOS and android)
 ---
 
 ### Tools Required
+- Node
+- React-Native
+- npm
+- iOS emulator to test
+- Android Emulator to test
 
 ---
 
 ### How to Run
+1. clone the repository
+2. npm i (install the necessary dependency)
+3. npx pod-install ios (must have xcode and iOS emulator)
+4. npx react-native run-ios
 
 ---
 
@@ -35,10 +44,14 @@ React-Native Application UI for Harmony One Wallet (iOS and android)
 ---
 
 ### Video
-[Demo: 1Wallet Mobile App UI](https://youtu.be/eTTFQ_bxpV4)
-<!-- ![Main Screen](images/MainScreen.png)
+YOUTUBE DEMO: [1Wallet Mobile App UI](https://youtu.be/eTTFQ_bxpV4)
+
+---
+
+### ScreenShots
+![Main Screen](images/MainScreen.png)
 
 ![Wallet Screen](images/Wallet.png)
 
-![Drawer Screen](images/Drawer.png) -->
+![Drawer Screen](images/Drawer.png)
 
